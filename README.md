@@ -8,7 +8,7 @@ Welcome to CTA Trainsit Tracker. This privacy policy aims to help you understand
 
 **Developer**: CTA Trainsit Tracker Team
 **Company**: CTA Trainsit Tracker Inc.
-**Contact Email**: wuchaoyu122@gmail.com
+**Contact Email**: wuchaoyu1991@gmail.com
 
 ## Data Collection and Usage
 
@@ -35,7 +35,7 @@ We retain the device ID only as long as necessary to fulfill the purpose of disp
 
 You have the right to request the deletion of your device ID. To exercise this right or if you have any privacy-related questions, please contact us at:
 
-Contact Email: wuchaoyu122@gmail.com
+Contact Email: wuchaoyu1991@gmail.com
 
 ## Policy Updates
 
