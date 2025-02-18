@@ -1,13 +1,13 @@
-# Chicago Bus Tracker Privacy Policy
+# CTA Trainsit Tracker Privacy Policy
 
 ## Privacy Policy
 
-Welcome to Chicago Bus Tracker. This privacy policy aims to help you understand how we collect, use, share, and protect your information. We value your privacy and are committed to safeguarding your information. Please read this policy carefully to understand how we handle your data.
+Welcome to CTA Trainsit Tracker. This privacy policy aims to help you understand how we collect, use, share, and protect your information. We value your privacy and are committed to safeguarding your information. Please read this policy carefully to understand how we handle your data.
 
 ## Developer Information
 
-**Developer**: Chicago Bus Tracker Team
-**Company**: Chicago Bus Tracker Inc.
+**Developer**: CTA Trainsit Tracker Team
+**Company**: CTA Trainsit Tracker Inc.
 **Contact Email**: wuchaoyu122@gmail.com
 
 ## Data Collection and Usage
@@ -41,10 +41,11 @@ Contact Email: wuchaoyu122@gmail.com
 
 We may update this privacy policy from time to time. Updated policies will be notified through our website and app. Please review this policy periodically to stay informed about how we are protecting your data.
 
-Thank you for using Chicago Bus Tracker. If you have any questions or concerns about this privacy policy, please feel free to contact us.
+Thank you for using CTA Trainsit Tracker. If you have any questions or concerns about this privacy policy, please feel free to contact us.
 
 This privacy policy can be accessed via the following link in a standard browser without the need for any plugins or special programs:
-Chicago Bus Tracker Privacy Policy
+CTA Trainsit Tracker Privacy Policy
 
 Effective Date: May 21, 2024
+
 
