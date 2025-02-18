@@ -7,7 +7,11 @@ Welcome to CTA Trainsit Tracker. This privacy policy aims to help you understand
 ## Developer Information
 
 **Developer**: CTA Trainsit Tracker Team
-**Company**: CTA Trainsit Tracker Inc.
+
+
+**Company/Person**: WUCHAO YU.
+
+
 **Contact Email**: wuchaoyu1991@gmail.com
 
 ## Data Collection and Usage
